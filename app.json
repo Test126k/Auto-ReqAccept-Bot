@@ -1,15 +1,15 @@
 {
     "name": "Auto-ReqAccept-Bot",
-    "description": "This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &amp; Users Database Feature",
+    "description": "This Is A Telegram For Automatically Accept Chat Join Request",
     "keywords": ["telegram", "AutoRequestAccept", "Bot"],
     "repository": "https://github.com/MrMKN/Auto-ReqAccept-Bot",
     "env": {
-        "API_ID": {"description": "Goto https://my.telegram.org To Obtain This."},
-        "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
-        "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
-        "BOT_TOKEN": {"description": "Get The Bot Token From https://telegram.dog/BotFather"},
-        "ADMINS": {"description": "Your Telegram ID form @Tgraph_Multi_Bot click /id in this bot"},
-        "DB_URL": {"description": "MongoDB URI For https://mongodb.com"}
+        "API_ID": {"description": "26300022"},
+        "API_HASH": {"description": "def44e13defba9d104323e821955dfa3"},
+        "API_HASH": {"description": "def44e13defba9d104323e821955dfa3"},
+        "BOT_TOKEN": {"description": "8165870647:AAFs7UcW9ldFzSEwhwLkiAVL2yny4Hgt-cU"},
+        "ADMINS": {"description": "6057768840 7772241425"},
+        "DB_URL": {"description": "mongodb+srv://Riya:Ak997110@cluster0.9qw9v.mongodb.net/?retryWrites=true&w=majority"}
     },
     "buildpacks": [{"url": "heroku/python"}]
 }
